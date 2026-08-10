@@ -58,8 +58,8 @@ streamlit run app.py
 
 ## URL หน้าเว็บ Streamlit
 
-[....](https://witthawat.streamlit.app/)
+https://witthawat.streamlit.app/
 
 ## GitHub Repository URL
 
-[....](https://github.com/TypeN2003/nlp)
+https://github.com/TypeN2003/nlp
